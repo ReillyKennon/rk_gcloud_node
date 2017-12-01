@@ -1,0 +1,6 @@
+# Run file for gcloud deployment
+
+# [START app_yaml]
+runtime: nodejs
+env: flex
+# [END app_yaml]
